@@ -1,3 +1,3 @@
-# Data Structures and Algorithms
+# Data Structures and Algorithms 👨🏾‍💻
 
-Documenting my journey learning more in-depth about DSA in Python
+Documenting my journey learning more in-depth about DSA in Python.
