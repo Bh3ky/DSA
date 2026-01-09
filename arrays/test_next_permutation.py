@@ -1,4 +1,4 @@
-from next_permuation import Solution
+from next_permutation import Solution
 
 def run_test(nums):
     sol = Solution()
